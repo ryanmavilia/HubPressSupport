@@ -1,0 +1,13 @@
+= Posts
+
+== Creating Posts
+To create a new post you must first log into your Hubpress accound by navigating to http://yourusername.github.io/hubpress. After logging in you should automatically be taken to the Posts page. Otherwise you can navigate to it by clicking the dropdown icon image::images/image.png[] and then clicking the Posts tab. Now simply click the plus icon and you will be taken to the editor page where you can begin to write your post.
+
+== Saving Posts
+Once you are done writing your post you can save what you have written so that you can come back to it later. To do this click the save icon at the bottom right side of the post editor page. You should receive a notification to inform you that your post has been saved successfully.
+
+== Publishing Posts
+After you have finished writing and revising your posts you can publish your post so that it will be made publicly available. To publish a post you need to click the publish button in the bottom right side of the post editor page. The button looks like an arrow pointing upwards. After clicking the publish post button you will receive a notification telling you that your post has been successfully published.
+
+== Unpublishing Posts
+Currently you can not delete HubPress posts however you can unpublish them so that they are not viewable by the public. To do this click the edit icon on the post you wish to unpublish then in the bottom right side of the editor screen you should see the unpublish icon which is a arrow pointing downwards. Simply click that icon and you will recieve a notification that your post has been unpublished.
