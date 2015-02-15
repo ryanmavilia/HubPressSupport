@@ -6,4 +6,4 @@ These files will be written on my GitHub first and then will be transferred to t
 
 
 ## File type
-Docs will be written in AsciiDoc markup language and will use the ".adoc" file extension.
+Docs will be written in AsciiDoc markup language and will use the `.adoc` file extension.
