@@ -1,0 +1,42 @@
+==== Meta
+
+This section contains basic information configured in the `/hubpress/config.json` file.
+
+The *Git CNAME* field is configurable, and lets you specify a custom domain name for your blog. See https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/ for instructions about setting up a CNAME for your blog.
+
+==== Site
+
+===== Title and Description
+
+The *Title* field allows you to give your blog a name. *Description* allow you to tell visitors what they can expect from your blog posts, in certain themes it will show up under the site's title.
+
+The *Logo* and *Cover Image* fields can be used the following ways:
+
+* A HTML link to an image hosting service. For example gravatar.
+* A link to an image committed to the /images directory of your blog repository.
+
+NOTE: See the `/images/README.adoc` file for tips about embedding images into your blog posts.
+
+===== Theme
+
+The *Theme* is selectable from the list of themes stored in the `/themes` directory. Specify it according to it is spelled in it's containing folder.
+
+===== Posts per page
+
+Simply the amount of blog posts to display on each page.
+
+===== Google Analytics
+
+The *Google Analytics* field takes the unique Google Analytics code generated for the site.
+
+===== Disqus Shortname
+
+The *Disqus shortname* field takes your Disqus URL/shortname that is specified when you register a new site for Disqus. Only the shortname is required, not a link to your profile page.
+
+==== Social Network
+
+All fields in this group require full URLs to your public profile page. The way these values are rendered on your blog depends on the theme selected.
+
+==== Submit
+
+Click this when you have finished making changes to your settings and your blog and its posts will be regenerated usign the new settings.
