@@ -8,7 +8,7 @@ The *Git CNAME* field is configurable, and lets you specify a custom domain name
 
 == Site
 
-=== Title and Description
+==== Title and Description
 
 The *Title* field allows you to give your blog a name. *Description* allow you to tell visitors what they can expect from your blog posts, in certain themes it will show up under the site's title.
 
@@ -19,19 +19,19 @@ The *Logo* and *Cover Image* fields can be used the following ways:
 
 NOTE: See the `/images/README.adoc` file for tips about embedding images into your blog posts.
 
-=== Theme
+==== Theme
 
 The *Theme* is selectable from the list of themes stored in the `/themes` directory. Specify it according to it is spelled in it's containing folder.
 
-=== Posts per page
+==== Posts per page
 
 Simply the amount of blog posts to display on each page.
 
-=== Google Analytics
+==== Google Analytics
 
 The *Google Analytics* field takes the unique Google Analytics code generated for the site.
 
-=== Disqus Shortname
+==== Disqus Shortname
 
 The *Disqus shortname* field takes your Disqus URL/shortname that is specified when you register a new site for Disqus. Only the shortname is required, not a link to your profile page.
 
