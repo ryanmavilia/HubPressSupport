@@ -298,4 +298,4 @@ recommendation for inline code quote char
 
 .Stacked cells
 
-Leverage them, makes it easy to read
+Leverage them, makes it easy to read.
